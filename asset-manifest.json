@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://apibrac.github.io/csb-rzht3d/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://apibrac.github.io/csb-rzht3d/static/js/main.1e79294f.chunk.js",
-    "main.js.map": "https://apibrac.github.io/csb-rzht3d/static/js/main.1e79294f.chunk.js.map",
+    "main.js": "https://apibrac.github.io/csb-rzht3d/static/js/main.e8191c25.chunk.js",
+    "main.js.map": "https://apibrac.github.io/csb-rzht3d/static/js/main.e8191c25.chunk.js.map",
     "runtime-main.js": "https://apibrac.github.io/csb-rzht3d/static/js/runtime-main.28058da8.js",
     "runtime-main.js.map": "https://apibrac.github.io/csb-rzht3d/static/js/runtime-main.28058da8.js.map",
     "static/js/2.29e33060.chunk.js": "https://apibrac.github.io/csb-rzht3d/static/js/2.29e33060.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.28058da8.js",
     "static/js/2.29e33060.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.1e79294f.chunk.js"
+    "static/js/main.e8191c25.chunk.js"
   ]
 }
